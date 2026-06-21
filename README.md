@@ -1,4 +1,4 @@
-# Credit_Risk_Default_predictiom
+# Credit_Risk_Default_prediction
 
 Machine learning case study that predicts the probability of a loan applicant defaulting, using the [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset). 
 
