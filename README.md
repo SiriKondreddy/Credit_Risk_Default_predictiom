@@ -132,6 +132,3 @@ Given the class imbalance, model selection prioritizes:
 
 Accuracy is intentionally de-emphasized as a primary metric, since it can be misleading on imbalanced data.
 
-## License
-
-Add your preferred license here (e.g. MIT).
