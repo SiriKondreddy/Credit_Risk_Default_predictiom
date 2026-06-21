@@ -1,6 +1,6 @@
 # Credit_Risk_Default_predictiom
 
-Machine learning case study that predicts the probability of a loan applicant defaulting, using the [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset). Built as part of the **Innovexa Catalyst** case study.
+Machine learning case study that predicts the probability of a loan applicant defaulting, using the [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset). 
 
 > **Target variable:** `loan_status` (`1` = default, `0` = non-default)
 
